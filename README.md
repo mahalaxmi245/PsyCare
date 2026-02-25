@@ -1,4 +1,4 @@
 # PsyCare
 Mental Health Tool
 <br>
-Author - Mahalaxmi
+Author - Mahalaxmi Chityala
